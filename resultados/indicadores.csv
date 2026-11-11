@@ -1,0 +1,6 @@
+﻿Indicador,Metodo de calculo,Resultado,Interpretacion
+Total de toneladas desembarcadas,Suma de toneladas (2016-2025),38337005,Volumen total desembarcado durante el periodo de estudio.
+Promedio de toneladas por registro,Media de toneladas,408.64,Cantidad promedio de toneladas por registro.
+Especie con mayor desembarque,Suma de toneladas por especie,"Salmón del Atlántico: 7,073,785.00 toneladas",Especie que acumula el mayor volumen de desembarque durante el periodo.
+Region con mayor desembarque,Suma de toneladas por region,"Bio-bío: 11,224,630.00 toneladas",Region o categoria geografica con el mayor volumen desembarcado.
+Variacion porcentual 2016-2025,((Total 2025 - Total 2016) / Total 2016) * 100,56.60%,Cambio porcentual del volumen anual entre 2016 y 2025.
